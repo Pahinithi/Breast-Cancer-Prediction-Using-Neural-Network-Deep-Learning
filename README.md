@@ -116,7 +116,8 @@ docker run -p 5000:5000 breast-cancer-prediction
 ## License
 This project is licensed under the MIT License.
 
-## Kaggle Notebook : https://www.kaggle.com/code/pahirathannithilan/breast-cancer-prediction-using-neural-networks-dl?scriptVersionId=194223987
+## Kaggle Notebook
+ - https://www.kaggle.com/code/pahirathannithilan/breast-cancer-prediction-using-neural-networks-dl?scriptVersionId=194223987
 
 <img width="1728" alt="DL10" src="https://github.com/user-attachments/assets/5e8ee147-9023-4579-8b5b-569f36a4fe92">
 
