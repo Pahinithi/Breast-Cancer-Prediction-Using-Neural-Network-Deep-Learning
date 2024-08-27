@@ -76,10 +76,6 @@ The neural network model consists of:
 2. **Predict:**
    Click the "Predict" button to submit the form. The app will process the input and display whether the prediction is "Malignant" or "Benign".
 
-## Example Output
-Here's an example of what the output might look like:
-![Example Output](example_output.png)  
-*Replace with an actual screenshot of the app's output.*
 
 ## How It Works
 - **Model Loading:** The pre-trained neural network model is loaded from the file `Breast_Cancer_Prediction_model.pth`.
